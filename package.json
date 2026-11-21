@@ -1,0 +1,14 @@
+{
+  "name": "atividade-oo-acervo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicação de console para praticar Orientação a Objetos com TypeScript.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/ativ.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "typescript": "^7.0.2"
+  }
+}
